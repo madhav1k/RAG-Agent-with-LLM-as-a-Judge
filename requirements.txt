@@ -1,0 +1,21 @@
+## For networking
+fastapi
+requests
+
+## LangChain 
+langchain
+langchain_community
+
+## Milvus/Embeddings
+huggingface_hub
+sentence-transformers
+
+## Gradio
+gradio
+
+langchain
+langchain_community
+pydantic
+
+## Vectorstores
+faiss
