@@ -13,8 +13,8 @@ RAG Agent with LLM Judge	built with LangChain, Sentence Transformers (Alibaba-NL
 
 ## Chatbot
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/72e9a663-fd07-457e-bba9-628f54294890" />
-
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/3930dee3-b855-4d0b-a910-eeab714bc869" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6a9e6aa0-5490-44e8-a86c-12cb6506b42b" />
 
 
 
